@@ -19,7 +19,7 @@ AI-powered financial analysis tool for market research and visualization.
 - **Features:** Interactive charts, real-time financial data, AI-driven insights  
 - **Stack:** FastAPI backend, React + D3.js frontend, Supabase for storage  
 
-### **DIYNews**
+### **DIY News**
 AI-driven personalized news aggregator with concise summaries.  
 - **Features:** Topic tracking, automated summarization, minimal UI  
 - **Stack:** Flask backend, Next.js frontend, NLP libraries  
