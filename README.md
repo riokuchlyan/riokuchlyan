@@ -9,6 +9,6 @@ Most of my work spans financial tooling, agentic systems, and quantitative appli
 **Links**
 
 - Portfolio — [riokuchlyan.com](https://riokuchlyan.com)
-- Resume — [riokuchlyan.com/assets/Rio_Kuchlyan_Resume.pdf](https://www.riokuchlyan.com/assets/Rio_Kuchlyan_Resume.pdf)
+- Resume — [riokuchlyan.com//Rio_Kuchlyan_Resume.pdf](https://www.riokuchlyan.com//Rio_Kuchlyan_Resume.pdf)
 - LinkedIn — [linkedin.com/in/riokuchlyan](https://www.linkedin.com/in/riokuchlyan)
 - Email — [riokuchlyan@gmail.com](mailto:riokuchlyan@gmail.com)
