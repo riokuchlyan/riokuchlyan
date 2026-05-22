@@ -1,6 +1,6 @@
 # Rio Kuchlyan
 
-Sophomore at UNC-Chapel Hill studying Computer Science and Business. I'm interested in the intersection of finance, technology, and data — and in building things that sit at that intersection.
+Student at UNC-Chapel Hill studying Computer Science and Business. I'm interested in the intersection of finance, technology, and data — and in building things that sit at that intersection.
 
 Most of my work spans financial tooling, agentic systems, and quantitative applications. I write a lot of Python and JavaScript, and I'm drawn to problems where software has a measurable edge over intuition.
 
